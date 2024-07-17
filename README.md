@@ -1,0 +1,2 @@
+# gitdev
+shell scriepting
